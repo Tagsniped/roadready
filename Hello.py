@@ -15,7 +15,6 @@ def run():
 
 
     st.write("Hello and welcome to our project Road Ready Tech. This app is designed to help keep you on top of your maintenance and make sure that your vehicle is always on tip top shape. When you use our system you can rest easy knowing that your car is always Road Ready.")
-    st.sidebar.success("Select a demo above.")
 
 
 if __name__ == "__main__":
